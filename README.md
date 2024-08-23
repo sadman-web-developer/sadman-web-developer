@@ -1,8 +1,8 @@
-### Hi there 👋, I am Sadman sakib
-#### Frontend Web-developer
-Hi there! I am a proficient web developer and developer with two years of experience. I specialize in developing websites using HTML, CSS, JS, tailwinds, nodejs. If you need a website designed at an affordable price, I would be happy to help. Please don't hesitate to contact me if you're interested in working together.
+# Hi there 👋, I am Sadman sakib
+## Frontend Web-developer
+### Hi there! I am a proficient web developer and developer with two years of experience. I specialize in developing websites using HTML, CSS, JS, tailwinds, nodejs. If you need a website designed at an affordable price, I would be happy to help. Please don't hesitate to contact me if you're interested in working together.
 
-Skills: HTML, CSS, JS, tailwindCSS, nodejs, wordpress, figma
+#### Skills: HTML, CSS, JS, tailwindCSS, nodejs, wordpress, figma
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Backend development  
